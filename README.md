@@ -4,8 +4,6 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@whyportela)
 [![youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whyportela/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyportela&hide_progress=true)
-
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
